@@ -1,0 +1,6 @@
+security.py
+__pycache__
+.vscode/
+# launch.json
+# settings.json
+*.log
